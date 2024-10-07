@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.digi.shopandgo.dev",
+    "sha256_cert_fingerprints":
+    ["03:36:D2:82:E0:B6:0A:2D:3F:27:35:30:F2:C7:CA:4E:8D:E2:2A:13:4D:CD:79:2A:3F:BF:16:25:71:F8:BB:3F"]
+  }
+}]
